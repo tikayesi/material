@@ -1,0 +1,2 @@
+1 john.thor     john.thor@email.com           081234567890  Jl.Antah Berantah No. 666                              Karyawan Swasta
+2 jane.thore    jane.thor@myemail.com         0898765432101 Jl.Antah Berantah No. 666, Kelurahan, Kecamatan        Karyawan Swasta
